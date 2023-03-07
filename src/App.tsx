@@ -1,17 +1,13 @@
 import { useState, useEffect } from "react";
-import { useQuery } from "react-query";
 import "./App.css";
 import Grid from "@mui/material/Grid";
 import Card from "@mui/material/Card";
-import Toolbar from "@mui/material/Toolbar";
 import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { Button, CardContent, createTheme, ThemeProvider } from "@mui/material";
 import Box from "@mui/material/Box";
 import CssBaseline from "@mui/material/CssBaseline";
-import Tooltip from "@mui/material/Tooltip";
 import PetsIcon from "@mui/icons-material/Pets";
-import { dark } from "@mui/material/styles/createPalette";
 import Stack from "@mui/material/Stack";
 
 const theme = createTheme({});
