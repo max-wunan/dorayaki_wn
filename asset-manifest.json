@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/dorayaki_wn/static/css/main.ac61a7bb.css",
-    "main.js": "/dorayaki_wn/static/js/main.a6b79c59.js",
-    "index.html": "/dorayaki_wn/index.html",
-    "main.ac61a7bb.css.map": "/dorayaki_wn/static/css/main.ac61a7bb.css.map",
-    "main.a6b79c59.js.map": "/dorayaki_wn/static/js/main.a6b79c59.js.map"
+    "main.css": "/static/css/main.ac61a7bb.css",
+    "main.js": "/static/js/main.a6b79c59.js",
+    "index.html": "/index.html",
+    "main.ac61a7bb.css.map": "/static/css/main.ac61a7bb.css.map",
+    "main.a6b79c59.js.map": "/static/js/main.a6b79c59.js.map"
   },
   "entrypoints": [
     "static/css/main.ac61a7bb.css",
