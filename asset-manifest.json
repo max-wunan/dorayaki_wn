@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/max-wunan/dorayaki_wn/static/css/main.ac61a7bb.css",
-    "main.js": "/max-wunan/dorayaki_wn/static/js/main.da12d049.js",
-    "index.html": "/max-wunan/dorayaki_wn/index.html",
-    "main.ac61a7bb.css.map": "/max-wunan/dorayaki_wn/static/css/main.ac61a7bb.css.map",
-    "main.da12d049.js.map": "/max-wunan/dorayaki_wn/static/js/main.da12d049.js.map"
+    "main.css": "/dorayaki_wn/static/css/main.ac61a7bb.css",
+    "main.js": "/dorayaki_wn/static/js/main.a6b79c59.js",
+    "index.html": "/dorayaki_wn/index.html",
+    "main.ac61a7bb.css.map": "/dorayaki_wn/static/css/main.ac61a7bb.css.map",
+    "main.a6b79c59.js.map": "/dorayaki_wn/static/js/main.a6b79c59.js.map"
   },
   "entrypoints": [
     "static/css/main.ac61a7bb.css",
-    "static/js/main.da12d049.js"
+    "static/js/main.a6b79c59.js"
   ]
 }
